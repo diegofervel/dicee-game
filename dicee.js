@@ -1,6 +1,4 @@
 
-
-
 let imageNumber1 = Math.floor(Math.random()*6+1);
 
 let imageNumber2 = Math.floor(Math.random()*6+1);
